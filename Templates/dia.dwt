@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/1140.css" rel="stylesheet" type="text/css">
+<link href="../css/styles.css" rel="stylesheet" type="text/css">
+<link href="../css/ie.css" rel="stylesheet" type="text/css">
+
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+<script src="js/html5.js"></script>
+<script src="js/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<div class="container">
+  <div class="row">
+    <!--start header-->
+    <header>
+      <!--start logo-->
+      <div class="sixcol"> <a href="../index.html" id="logo"><img src="../Images/hipsterlogogenerator_1434522734796.png" width="303" height="120" alt=""></a> </div>
+      <!--end logo-->
+      <!--start menu-->
+      <div class="sixcol last">
+        <nav>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../About Us.html">About us </a></li>
+            <li><a href="../Products.html">Products</a></li>
+            <li><a href="../Events.html">Events</a></li>
+            <li><a href="../Services.html">Services</a></li>
+            <li><a href="../Feedback.html">Feedback</a></li>
+            <li><a href="../Contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <!--end menu-->
+      <img src="Images/ice_cream_with_banner.png" width="350" height="256" alt="" class="cake">
+      <!--end header-->
+    </header>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <section id="intro" class="onecol">
+      <hgroup>
+        <a href="../index.html"><h1>Diazepam Cafe</h1></a>
+		  <marquee><h2>Welcome to Diazepam Café!!!!! </h2></marquee>
+         </section>
+  </div>
+</div>
+<!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable -->
+
+</body>
+
+<footer>
+ <ul><li>
+  <p>Phone: +65-44446677</p></li>
+  <li><p>Email: Diazepam@gmail.com</p></li>
+	<li></li><p>Address: 200, Diazepam Crescent,</br>100000 Singapore</p></li></ul>
+
+</footer>
+<!--end footer-->
+</html>
